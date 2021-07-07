@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.avatar {
+  border-radius: 500px; /* Радиус скругления */
+  align-items: center;
+  justify-content: center;
+}
+
+.left {
+  background-color: #232c39;
+}
