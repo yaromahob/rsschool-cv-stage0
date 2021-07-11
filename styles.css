@@ -47,15 +47,15 @@ li {
   padding-left: 30px;
 }
 
-.aboutMeLeft {
+.about_Me_Left {
   padding-bottom: 24px;
 }
 
-.aboutMeRight {
+.about_Me_Right {
   padding-bottom: 24px;
 }
 
-.contactMe,
+.contact_Me,
 .skills,
 .lanuages {
   margin-top: 24px;
@@ -89,11 +89,11 @@ a {
   height: 180px;
 }
 
-.dataContainer {
+.data_Container {
   padding: 10px;
 }
 
-.infoContainer {
+.info_Container {
   padding: 0px 24px;
   font-size: 14px;
 }
@@ -109,7 +109,7 @@ a {
 
 .right {
   margin-top: 53px;
-  max-width: 390px;
+  max-width: 500px;
 }
 
 .experience {
@@ -125,4 +125,34 @@ h1 {
   width: 100%;
   color: #f3f3f3;
   border: 1px solid #f3f3f3;
+}
+
+.footer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.git_hub {
+  background-color: #fff;
+  width: 100px;
+}
+
+.data {
+  padding-right: 45px;
+}
+
+.git_hub_img {
+  margin: 0;
+  padding: 0;
+  height: 40px;
+}
+
+.rss_img {
+  margin: 0;
+  padding: 0;
+  padding-right: 30px;
+  height: 50px;
+  width: 50px;
 }
