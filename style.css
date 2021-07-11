@@ -11,37 +11,37 @@ li {
 }
 
 .phone {
-  background: url(/img/phone.png);
+  background: url(img/phone.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
 }
 .mail {
-  background: url(/img/Mail.png);
+  background: url(img/Mail.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
 }
 .location {
-  background: url(/img/location.png);
+  background: url(img/location.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
 }
 .linkedin {
-  background: url(/img/linkedin.png);
+  background: url(img/linkedin.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
 }
 .github {
-  background: url(/img/github.png);
+  background: url(img/github.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
 }
 .telegram {
-  background: url(/img/telegram.png);
+  background: url(img/telegram.png);
   background-repeat: no-repeat;
   background-size: 12%;
   padding-left: 30px;
